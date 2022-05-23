@@ -1,0 +1,6 @@
+I learned about the CIA triad that is confidentiality, integrity and availability.
+There are 2 more things to be added to this that are authenticity and Non-repudiation
+
+Authenticity refers to the characteristics of the communication and any type of data ensures the quality of being genuine
+
+Non - repudiation : A guarantee that the sender cannot deny having sent the message and the receiver cannot deny having received the message
