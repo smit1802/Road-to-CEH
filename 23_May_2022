@@ -4,3 +4,28 @@ There are 2 more things to be added to this that are authenticity and Non-repudi
 Authenticity refers to the characteristics of the communication and any type of data ensures the quality of being genuine
 
 Non - repudiation : A guarantee that the sender cannot deny having sent the message and the receiver cannot deny having received the message
+
+classification of attacks
+there are 5 types of attack in total
+-- active attack
+the attack techniques like sql injection , xss , DDOS, Firewall, session hijacking
+this type of attack is breaking into secure systems of the target.
+
+-- passive attack
+this type of attack is not directly attacking the target systems. Using third party services to get as much as information about the target as possible
+In this type of attack we do reconaissance on network activities using sniffers.
+----footing
+----sniffing and eavesdropping
+----network analysis
+----decryption of weakly encrypted traffic
+
+-- close in attack
+close in attacks are performed when the attacker is in close physical proximity with the target system or network.
+the main goal of this attack is to gather or modify information or disrupt its access.
+
+-- insider attack
+In this type of attack any insider employee is involved
+
+-- distribution attack
+The temparing of software or hardware is done before delivering.
+---- containing backdoor
