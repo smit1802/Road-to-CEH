@@ -1,0 +1,26 @@
+Today I started again on the CEH Journey
+I have started more seriously now, I have gone through some chapters since my last commit
+but Now I have 18 days to open my college. so, I am planning to do some heavy work in this period.
+
+What did I Learn today?
+
+I noted down the important ports listed in the beginning.
+
+started with port 53 - DNS Zone Transfer
+DNS client and DNS server setup a connection to communicate.
+The client sends the message over UDP.
+if the size of the message is more than the default size then the message is truncated.
+The client resends the message and the UDP fails again but this time the it uses TCP to send the message.
+Malware is transfered over this port
+
+NetBIOS uses 3 ports which are namely UDP 137, UDP 138, TCP 139
+UDP 137 - NetBIOS name service
+UDP 139 - NetBIOS session service
+
+The Following tools are used for NetBIOS enumeration(You gotta google the tools as I cant list commands for them here):
+-- nbstat
+-- netbios-enumerator
+-- namp (the god)
+-- global network inventory
+-- advanced IP Scanner
+-- ns auditor
